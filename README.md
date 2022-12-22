@@ -5,8 +5,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Cloud Architect, Data Migration, Data Visualization and Data Warehousing
 - 🌱 I’m currently learning AI and Cyber Security
-- 👯 I’m looking to collaborate Data Science 
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate Cloud Architect
+- 🤔 I’m looking for help with AI
 - 💬 Ask me about ... what you want? :) :) 
 - 📫 How to reach me: ... crescent19@live.ca
 - 😄 Pronouns: ...
